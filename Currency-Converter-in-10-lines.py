@@ -13,6 +13,6 @@ c = CurrencyConverter()
 #Converted Amount is rounded to 2 decimal places.
 converted_amt = c.convert(amt,currency1,currency2)
 print("Converted Amount - ",round(converted_amt,2))
-print("Currency Converter using Python ! - Choicean")
+print("Currency Converter using Python ! - SkyisJusttheBeginning")
 print("Values have been rounded to 2 decimal places")
 print("Happy Coding!")
